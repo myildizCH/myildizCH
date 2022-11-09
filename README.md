@@ -12,7 +12,7 @@
 
 - 🪃 I love Java and JavaScript equally. 
 - 👷🏻‍♂️ I support projects which will help humanity.
-- 🌱 I’m currently learning Rust and Go
+- 🌱 I’m currently learning [Qwik](https://github.com/BuilderIO/qwik) and [Fastify](https://www.fastify.io/).
 - ❓ Ask me about anything related to MERN stack, Cypress, and Testing
 - ⚡ Fun fact: People find me funny.
 
