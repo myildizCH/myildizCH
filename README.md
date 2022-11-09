@@ -1,26 +1,233 @@
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
-<h1 align="center">Hi 👋, I'm Mehmet Yildiz</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<div align="center">
+  <img
+    src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif"
+    align="center"
+    style="width: 80%"
+  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myildizch&label=Profile%20views&color=0e75b6&style=flat" alt="myildizch" /> </p>
+<br>
 
-- 🌱 I’m currently learning **Rust, Go**
+###
+<div align="center">I'm Mehmet, a passionate software developer 🚀</div>
 
-- 💬 Ask me about **react, nest.js, cypress, selenium, testing in general**
+- 🌱 I’m currently learning Rust and Go
+- ❓ Ask me about anything related to MERN stack, Cypress, and testing
+- ⚡ Fun fact: People find me funny.
 
-- 📫 How to reach me **meyildiz.de@gmail.com**
+<br />
 
-- ⚡ Fun fact **People find me funny.**
+## My Skill Set
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      Frontend
+      <div align="center">
+        <a href="https://reactjs.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+            alt="React"
+            height="50"
+        /></a>
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+            alt="Bootstrap"
+            height="50"
+        /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+            alt="CSS3"
+            height="50"
+        /></a>
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+            alt="HTML5"
+            height="50"
+        /></a>
+        <a href="https://www.javascript.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+            alt="JavaScript"
+            height="50"
+        /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+            alt="TypeScript"
+            height="50"
+        /></a>
+        <a href="https://expressjs.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+            alt="Express.js"
+            height="50"
+        /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      Backend
+      <div align="center">
+        <a href="https://www.cplusplus.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
+            alt="C++"
+            height="50"
+        /></a>
+        <a href="https://www.javascript.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+            alt="JavaScript"
+            height="50"
+        /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+            alt="TypeScript"
+            height="50"
+        /></a>
+        <a href="https://www.mongodb.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
+            alt="MongoDB"
+            height="50"
+        /></a>
+        <a href="https://nodejs.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+            alt="Node.js"
+            height="50"
+        /></a>
+        <a href="https://www.linux.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+            alt="Linux"
+            height="50"
+        /></a>
+        <a href="https://expressjs.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+            alt="Express.js"
+            height="50"
+        /></a>
+        <a href="https://www.java.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+            alt="Java"
+            height="50"
+        /></a>
+        <a href="https://nestjs.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/nestjs.svg"
+            alt="NestJS"
+            height="50"
+        /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      DevOps
+      <div align="center">
+        <a href="https://aws.amazon.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"
+            alt="AWS"
+            height="50"
+        /></a>
+        <a href="https://cloud.google.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg"
+            alt="GCP"
+            height="50"
+        /></a>
+        <a href="https://kubernetes.io/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
+            alt="Kubernetes"
+            height="50"
+        /></a>
+        <a href="https://www.linux.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+            alt="Linux"
+            height="50"
+        /></a>
+        <a href="https://github.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+            alt="Git"
+            height="50"
+        /></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
+            alt="Bash"
+            height="50"
+        /></a>
+        <a href="https://www.docker.com/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
+            alt="Docker"
+            height="50"
+        /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Connect with me
+<div align="center">
+  <a href="https://github.com/myildizch" target="_blank">
+    <img
+    src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+    alt=github style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myildizch&show_icons=true&locale=en&layout=compact" alt="myildizch" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myildizch&show_icons=true&locale=en" alt="myildizch" /></p>
+## Github Stats
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=myildizch&show_icons=true&count_private=true&hide_border=true"
+    align="center"
+  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myildizch&" alt="myildizch" /></p>
+<br />
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=myildizch&&style=flat-square"
+    align="center"
+  />
+</div>
+
+<br />
+
