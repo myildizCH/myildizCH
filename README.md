@@ -8,11 +8,12 @@
 
 <br>
 
-###
-<div align="center">I'm Mehmet, a passionate software developer 🚀</div>
+### <div>💻 Hi! I'm Mehmet, a passionate software developer 🚀</div>
 
+- 🪃 I love Java and JavaScript equally. 
+- 👷🏻‍♂️ I support projects which will help humanity.
 - 🌱 I’m currently learning Rust and Go
-- ❓ Ask me about anything related to MERN stack, Cypress, and testing
+- ❓ Ask me about anything related to MERN stack, Cypress, and Testing
 - ⚡ Fun fact: People find me funny.
 
 <br />
@@ -20,8 +21,8 @@
 ## My Skill Set
 <table>
   <tr>
-    <td valign="top" width="33%">
-      Frontend
+    <td valign="top" width="50%"> 
+    Frontend
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
           ><img
@@ -65,16 +66,9 @@
             alt="TypeScript"
             height="50"
         /></a>
-        <a href="https://expressjs.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
-            alt="Express.js"
-            height="50"
-        /></a>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       Backend
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
@@ -142,7 +136,8 @@
         /></a>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <tr>
+    <td valign="top" width="50%">
       DevOps
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
@@ -152,11 +147,11 @@
             alt="AWS"
             height="50"
         /></a>
-        <a href="https://cloud.google.com/" target="_blank"
+        <a href="https://github.com/actions" target="_blank"
           ><img
             style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg"
-            alt="GCP"
+            src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"
+            alt="GitHub Actions"
             height="50"
         /></a>
         <a href="https://kubernetes.io/" target="_blank"
@@ -196,18 +191,56 @@
         /></a>
       </div>
     </td>
+    <td valign="top" width="50%">
+      Testing
+      <div align="center">
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+  <img
+    style="margin: 10px"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+    alt="cypress"
+    height="50"
+/></a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <img
+    style="margin: 10px"
+    src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+    alt="jest"
+    height="50"
+  />
+</a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer">
+  <img
+    style="margin: 10px"
+    src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+    alt="mocha"
+    height="50"
+  />
+</a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+  <img
+    style="margin: 10px"
+    src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+    alt="selenium"
+    height="50"
+  />
+</a>
+      </div>
+    </td>
+
   </tr>
 </table>
 
+
 <br />
 
-### GitHub Stats
+## GitHub Stats
 
 <div>
 
   <div align="center">
-    <a href="#"><img alt="Mehmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myildizCH&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
-    <a href="#"><img alt="Mehmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myildizCH&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Mehmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myildizCH&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="175"/></a>
+    <a href="#"><img alt="Mehmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myildizCH&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="175"/></a>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=myildizCH&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
