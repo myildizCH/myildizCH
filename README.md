@@ -248,9 +248,6 @@
 
   <hr/>
 
-  <div>
-    <a href="#"><img alt="Mehmet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=myildizCH&custom_title=Mehmet%20Yildiz's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
 </div>
 
 ## Connect With Me
