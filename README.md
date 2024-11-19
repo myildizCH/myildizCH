@@ -1,3 +1,8 @@
+<div align="center">
+  <img width="666" alt="Screenshot 2024-11-19 at 15 02 42" src="https://github.com/user-attachments/assets/ca678799-4ba7-407d-942a-d6fdfc15f33c">
+</div>
+
+
 # 👋 Hi there! I'm Mehmet
 
 🌟 Welcome! I’m a passionate **software developer**, **manager**, and **technical writer** who loves crafting scalable solutions, leading teams, and sharing knowledge. Whether it's exploring **design patterns in TypeScript** or mentoring teams, I aim to combine technology with practical insights.
