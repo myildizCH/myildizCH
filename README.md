@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Mehmet
 
-🚀 Tech Enthusiast | Manager | Writer | Java & JavaScript Expert
-
 🌟 Welcome! I’m a passionate **software developer**, **manager**, and **technical writer** who loves crafting scalable solutions, leading teams, and sharing knowledge. Whether it's exploring **design patterns in TypeScript** or mentoring teams, I aim to combine technology with practical insights.
 
 ---
