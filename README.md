@@ -10,7 +10,7 @@ Over the years, I’ve honed my skills as a team manager, focusing on:
 - Mentoring developers and guiding them through technical challenges.
 - Building robust development pipelines for scalable software.
 
-📝 I share my leadership learnings on **Medium**, I’m also passionate about writing in-depth articles that simplify complex concepts:
+✍️ I share my leadership learnings on **Medium**, I’m also passionate about writing in-depth articles that simplify complex concepts:
 - [**How I learned to be a Manager of Managers**](https://medium.com/engineering-leadership-insights/how-i-learned-to-be-a-manager-of-managers-by-failing-3f40a5915253)
 - [**Mindset Shifts For Engineers to Achieve Higher Software Quality**](https://medium.com/@phdmeyildiz/mindset-shifts-for-engineers-to-achieve-higher-software-quality-8ef8ee00a041)
 - [**Quick Reference: Choosing the Right Design Pattern in TypeScript**](https://medium.com/@phdmeyildiz/quick-reference-choosing-the-right-design-pattern-in-typescript-b726afbb309a)
