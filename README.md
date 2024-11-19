@@ -1,24 +1,49 @@
-<div align="center">
-  <img
-    src="https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif"
-    align="center"
-    style="width: 100%"
-  />
-</div>
+# 👋 Hi there! I'm Mehmet
 
-<br>
+🚀 Tech Enthusiast | Manager | Writer | Java & JavaScript Expert
 
-### <div>💻 Hi! I'm Mehmet, a passionate software developer 🚀</div>
+🌟 Welcome! I’m a passionate **software developer**, **manager**, and **technical writer** who loves crafting scalable solutions, leading teams, and sharing knowledge. Whether it's exploring **design patterns in TypeScript** or mentoring teams, I aim to combine technology with practical insights.
 
-- 🪃 I love Java and JavaScript equally. 
-- 👷🏻‍♂️ I support projects which will help humanity.
-- 🌱 I’m currently learning [Qwik](https://github.com/BuilderIO/qwik) and [Fastify](https://www.fastify.io/).
-- ❓ Ask me about anything related to MERN stack, Cypress, and Testing
-- ⚡ Fun fact: People find me funny.
+---
+
+## 🧑‍💼 Leadership & Management
+Over the years, I’ve honed my skills as a team manager, focusing on:
+- Driving innovation and fostering team collaboration.
+- Mentoring developers and guiding them through technical challenges.
+- Building robust development pipelines for scalable software.
+
+📝 I share my leadership learnings on **Medium**, I’m also passionate about writing in-depth articles that simplify complex concepts:
+- [**How I learned to be a Manager of Managers**](https://medium.com/engineering-leadership-insights/how-i-learned-to-be-a-manager-of-managers-by-failing-3f40a5915253)
+- [**Quick Reference: Choosing the Right Design Pattern in TypeScript**](https://medium.com/@phdmeyildiz/quick-reference-choosing-the-right-design-pattern-in-typescript-b726afbb309a)
+
+Check out my [**Medium profile**](https://medium.com/@phdmeyildiz) for more articles.
+
+---
+
+## 🤔 Ask Me About
+- Building robust Java applications with Spring Boot
+- Full-stack development with the MERN stack
+- Writing efficient and scalable test automation
+- Managing tech teams and mentoring managers/developers
+
+---
+
+## ⚡ Fun Facts
+- People find me funny, though my code is always serious. 😜
+- I believe in the motto: “Code for humanity, debug for sanity.” 🧑‍💻
+- Always curious about the latest in tech and love learning from the community.
+
+---
+
+## Let's Connect
+Feel free to reach out or explore more of my work:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myildizch)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@phdmeyildiz)
+
 
 <br />
 
-## My Skill Set
+## 🛠️ My Skill Set
 <table>
   <tr>
     <td valign="top" width="50%"> 
@@ -234,10 +259,9 @@
 
 <br />
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div>
-
   <div align="center">
     <a href="#"><img alt="Mehmet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=myildizCH&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="175"/></a>
     <a href="#"><img alt="Mehmet's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myildizCH&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="175"/></a>
@@ -249,15 +273,5 @@
   <hr/>
 
 </div>
-
-## Connect With Me
-<div align="center">
-  <a href="https://github.com/myildizch" target="_blank">
-    <img
-    src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
-    alt=github style="margin-bottom: 5px;" />
-  </a>
-</div>
-
 <br />
 
