@@ -16,7 +16,7 @@ Over the years, I’ve honed my skills as a team manager, focusing on:
 - [**Quick Reference: Choosing the Right Design Pattern in TypeScript**](https://medium.com/@phdmeyildiz/quick-reference-choosing-the-right-design-pattern-in-typescript-b726afbb309a)
 
 
-Check out my [**Medium profile**](https://medium.com/@phdmeyildiz) for more articles.
+Check out my [**Medium**](https://medium.com/@phdmeyildiz) profile for more articles.
 
 ---
 
